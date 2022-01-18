@@ -12,7 +12,6 @@
 
 # edited by Lydia
 # edited by Mo
-# neuer edit
 
 # edited by Lydia
 
